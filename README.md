@@ -1,3 +1,5 @@
+This is my first attempt at a proper website, and seeing ass i am a low end hacker (reference to hack job quality not skill) I borrowed from someone else. Thank you Hank Quinlan for the inspiration.
+
 hankquinlan.github.io
 =====================
 This is demo data created by [Jonathan McGlone](http://jmcglone.com) and used in a [step-by-step beginners guide](http://jmcglone.com/guides/github-pages) to creating and hosting a personal website using GitHub and Jekyll. You can view the demo data at <http://hankquinlan.github.io> and read the guide at <http://jmcglone.com/guides/github-pages>. 
